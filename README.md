@@ -8,7 +8,7 @@ I have been coding since before I attended college and have been loving every mi
 
 * 🌍  I'm based in Chicago
 * 🖥️  See my portfolio at [saifsushi.com](http://saifsushi.com)
-* 🧠  I'm learning Websockets
+* 🧠  I'm learning Websockets right now
 * ⚡  I have a raging war with css and it's winning.
 
 ### Skills
