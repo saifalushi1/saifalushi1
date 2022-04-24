@@ -7,7 +7,7 @@ Junior Software Developer
 I have been coding since before I attended college and have been loving every minute of it. I have dabbled in a ton of technologies but have been focusing on improving my back end skills.
 
 * 🌍  I'm based in Chicago
-* 🖥️  See my portfolio at [SaifSushi.com](http://saifsushi.com)
+* 🖥️  See my portfolio at [saifsushi.com](http://saifsushi.com)
 * 🧠  I'm learning Websockets
 * ⚡  I have a raging war with css and it's winning.
 
