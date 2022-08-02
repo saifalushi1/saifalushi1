@@ -1,7 +1,7 @@
 Hi 👋 My name is Saif Alushi
 ============================
 
-Junior Software Developer
+Junior Software Engineer
 -------------------------
 
 I have been coding since before I attended college and have been loving every minute of it. I have dabbled in a ton of technologies but have been focusing on improving my back end skills.
