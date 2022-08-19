@@ -1,10 +1,10 @@
-Hi 👋 My name is Saif Alushi
+Saif Sushi
 ============================
 
 Junior Software Engineer
 -------------------------
-
-I have been coding since before I attended college and have been loving every minute of it. I have dabbled in a ton of technologies but have been focusing on improving my back end skills.
+Rant:
+I currently work at PC as a jr. software engineer. Most of my projects don't serve any real purpose (other than being vessels for learning a new technology or improving a skill) but I aim to change that some time in the future when I finish my current project. I don't do freelance/contract work at the moment but if a cool enough project falls into my lap I might write a little code :p. 
 
 * 🌍  I'm based in Chicago
 * 🖥️  See my portfolio at [saifsushi.com](http://saifsushi.com)
