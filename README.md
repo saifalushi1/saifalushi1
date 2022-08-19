@@ -3,7 +3,7 @@ Saif Sushi
 
 Junior Software Engineer
 -------------------------
-Rant:
+
 I currently work at PC as a jr. software engineer. Most of my projects don't serve any real purpose (other than being vessels for learning a new technology or improving a skill) but I aim to change that some time in the future when I finish my current project. I don't do freelance/contract work at the moment but if a cool enough project falls into my lap I might write a little code :p. 
 
 * 🌍  I'm based in Chicago
