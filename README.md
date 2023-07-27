@@ -4,7 +4,7 @@ Saif Sushi
 Junior Software Engineer
 -------------------------
 
-I currently work at PC as a jr. software engineer. Most of my projects don't serve any real purpose (other than being vessels for learning a new technology or improving a skill) but I aim to change that some time in the future when I finish my current project. I don't do freelance/contract work at the moment but if a cool enough project falls into my lap I might write a little code :p. 
+I currently work at PC as a jr. software engineer. Most of my projects don't serve any real purpose other than being vessels for learning a new technology or improving a skill but I aim to change that sometime when I finish my current project. You may notice that my GitHub squares are almost all not GREEN! I must not be a good programmer because my squares are not green and I don't code daily! I do in fact code daily but most of my free time coding is spent on a private project that I aim to monetize and can't make public or extra work I am doing for my company which wouldn't show up here. Im not saying this to prove I'm a good programmer I know deep down I'm terrible but I have had enough comments made to warrant almost a paragraph in my README:p. 
 
 * 🌍  I'm based in Chicago
 * 🖥️  See my portfolio at [saifsushi.com](http://saifsushi.com)
