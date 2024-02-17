@@ -4,7 +4,7 @@ Saif Sushi
 Junior Software Engineer
 -------------------------
 
-I currently work at PC as a jr. software engineer. Most of my projects don't serve any real purpose other than being vessels for learning a new technology or improving a skill but I aim to change that sometime when I finish my current project. You may notice that I don't test any of my code. I love unit tests but I'm not going to write tests for something that is not going to be maintained. When I decide to write a lib or a publicly maintained project then maybe. until then, enjoy looking at my naked code:p. 
+I currently work at PC as a jr. software engineer. Most of my projects don't serve any real purpose other than being vessels for learning a new technology or improving a skill but I aim to change that sometime when I finish my current project. 
 
 * 🌍  I'm based in Chicago
 * 🖥️  See my portfolio at [saifsushi.com](http://saifsushi.com)
